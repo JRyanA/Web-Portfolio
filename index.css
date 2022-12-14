@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Unbounded', cursive;
+}
+
+
+img{
+    width: 300px;
+}
+
+#img-abt{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+}
+
+#backg{
+    background-image: url("https://img.freepik.com/free-photo/grunge-vintage-old-paper-background_1373-431.jpg?w=1380&t=st=1670992076~exp=1670992676~hmac=7d984ad14b148d47810b66bfa32dfa038376aaac48a36220263c77879c08c2a2");
+
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}   
+
+#form-bg{
+    background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+
+
+#pj-bg{
+    background-image: linear-gradient(to left bottom, #aed16b, #5ac386, #00afa3, #0096b2, #007aab, #007baf, #017bb2, #057cb6, #009ccd, #00bcdf, #1cdcea, #5ffbf1);
+}
+
+#abt-p{
+    font-size: large;
+}
+
+#abt-sec{
+    background-color: #F4EAD5;
+}
+
+#card1
+    width: 250px;
+    margin-left: ;
+
+
+
+#pre-footer{
+    min-height:7em;
+}
+
